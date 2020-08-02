@@ -6,7 +6,7 @@ import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
-import org.testng.annotations.BeforeClass;
+
 
 public class SpartanTestsWithPathParameters {
 
